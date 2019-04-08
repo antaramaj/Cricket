@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+/* @import '~@angular/material/prebuilt-themes/indigo-pink.css'; */
+
+
+html,body { 
+    
+    height:100%;width:100%;font-family: 'Montserrat';
+    background-image: url("http://creamsonservices.com/images/teacher_panel.png");
+
+        }
